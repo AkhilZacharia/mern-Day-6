@@ -1,0 +1,10 @@
+$color1:blue;
+
+h1{
+    color:$color1;
+}
+.container{
+    .child{
+        border:1px solid $color1;
+    }
+}
